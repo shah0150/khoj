@@ -4,4 +4,4 @@
 
 ## "khoj" means "detection/ search" in Hindi
 
-### Khoj is an JavaScript/ Python library to detect almost anything and everything. 
+### Khoj is an JavaScript and Python library to detect almost anything and everything. 
