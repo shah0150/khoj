@@ -1,5 +1,6 @@
-# khoj
 
-"khoj" means "detection/ search" in Hindi
+![khoj logo](screenshot.png)
 
-Khoj is an JavaScript/ Python library to detect almost anything and everything. 
+### "khoj" means "detection/ search" in Hindi
+
+## Khoj is an JavaScript/ Python library to detect almost anything and everything. 
