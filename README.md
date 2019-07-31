@@ -1,5 +1,5 @@
 
-![khoj logo](https://user-images.githubusercontent.com/14239185/62234502-d0250a00-b398-11e9-8e80-fcda9d4be861.png)
+![khoj logo](https://user-images.githubusercontent.com/14239185/62234762-55a8ba00-b399-11e9-9a68-645855f6d86b.png)
 
 ### "khoj" means "detection/ search" in Hindi
 
